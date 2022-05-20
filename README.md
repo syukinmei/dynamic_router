@@ -3,7 +3,7 @@
 1. yarn install
 2. yarn serve
 3. cd src/server
-4. node getAnotherRoutes (看到 Server is running at http://127.0.0.1:5001/ 即可正在运行)
+4. node getAnotherRoutes.js  （看到 Server is running at http://127.0.0.1:5001/ 即可正在运行）
 
 # 效果展示
 
