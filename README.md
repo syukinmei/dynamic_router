@@ -1,23 +1,20 @@
 # 项目启用方式
 
-> yarn install
-
-> yarn serve
-
-> cd src/server
-
-> node getAnotherRoutes (看到 Server is running at http://127.0.0.1:5001/ 即可正在运行)
+1. yarn install
+2. yarn serve
+3. cd src/server
+4. node getAnotherRoutes (看到 Server is running at http://127.0.0.1:5001/ 即可正在运行)
 
 # 效果展示
 
 <p align='center'>
-<img src="./public/bossLogin.gif" width = "676" />
-<span> 老板身份登录 </span>
+<img src="./public/bossLogin.gif" /> <br>
+<small> 老板身份登录 </small>
 </p>
 
 <p align='center'>
-<img src="./public/staff.gif" width = "676" />
-<span> 员工身份登录 </span>
+<img src="./public/staff.gif" /><br>
+<small> 员工身份登录 </small>
 </p>
 
 # dynamic_router
