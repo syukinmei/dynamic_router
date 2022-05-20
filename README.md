@@ -8,12 +8,12 @@
 # 效果展示
 
 <p align='center'>
-<img src="./public/bossLogin.gif" /> <br>
+<img src="./public/bossLogin.gif" width="300"/> <br>
 <small> 老板身份登录 </small>
 </p>
-
+<hr>
 <p align='center'>
-<img src="./public/staff.gif" /><br>
+<img src="./public/staff.gif" width="300"/><br>
 <small> 员工身份登录 </small>
 </p>
 
